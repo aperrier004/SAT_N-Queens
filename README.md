@@ -1,5 +1,5 @@
 # SAT_N-Queens
-This projects aims to give how many solutions  an SAT solver can give to the N-Queens problem.
+This projects aims to encode in an SAT solver the N-Queens problem.
 
 Author : Alban PERRIER
 
